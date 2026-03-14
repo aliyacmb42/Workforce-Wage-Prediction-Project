@@ -1,3 +1,3 @@
 # Workforce Wage Prediction Project
-**Predictive Analytics Course - Spring 2026** |
+**Predictive Analytics Course - Spring 2026**  
 Using a fictional dataset, built multiple linear regression models in R to support workforce planning, salary budgeting, and compensation forecasting decisions, providing actionable business insights based on the results.
